@@ -1,0 +1,14 @@
+{
+  "name": "intuitdeveloper/helloworld-php",
+  "description": "A sample PHP Hello Application to demonstrate OAuth2.0",
+  "type": "library",
+  "keywords": ["api", "http", "rest", "quickbooks", "smallbusiness"],
+  "homepage": "http://developer.intuit.com",
+  "require": {
+    "quickbooks/v3-php-sdk": "^6.2",
+    "vlucas/phpdotenv": "^5.6",
+    "phpoffice/phpspreadsheet": "^4.2"
+  },
+  "author": "anil_kumar",
+  "license": "MIT"
+}
